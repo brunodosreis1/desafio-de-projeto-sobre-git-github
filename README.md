@@ -1,7 +1,7 @@
 # Desafio de projeto sobre Git/GitHub
 Repositório criado para o desafio de projeto sobre Git e Git Hub da Dio.Me
 ## Nesse repositório criei anexando o que aprendi durante o curso de Introdução ao Git e Git Hub.
-### Capitulos:
+### Capítulos:
 1. Introdução ao Git e Git Hub
 2. Introdução ao Git
 3. Como instalar o Git
